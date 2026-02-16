@@ -6,7 +6,7 @@
   "publisher": "peppy0510",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peppy0510/legacypack-color-theme-vscode"
+    "url": "https://github.com/peppy0510/vscode-theme-legacypack"
   },
   "engines": {
     "vscode": "^1.109.0"
