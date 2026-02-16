@@ -2,13 +2,16 @@
   "name": "legacypack",
   "displayName": "LegacyPack",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "peppy0510",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peppy0510/legacypack-color-theme-vscode"
+  },
   "engines": {
     "vscode": "^1.109.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
