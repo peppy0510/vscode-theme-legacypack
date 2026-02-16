@@ -1,4 +1,4 @@
-# legacypack README
+# Legacy Pack README
 
 ## Working with Markdown
 
