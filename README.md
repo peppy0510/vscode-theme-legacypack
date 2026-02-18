@@ -7,6 +7,9 @@ git clone https://github.com/peppy0510/vscode-theme-legacypack.git
 cd vscode-theme-legacypack
 npm install -g @vscode/vsce
 vsce package
+# code --list-extensions
+# code --uninstall-extension <publisher.extension-id>
+code --install-extension .\LegacyPack-0.1.0.vsix
 ```
 
 * VS Code: Extensions > Install from VSIX > Select file
